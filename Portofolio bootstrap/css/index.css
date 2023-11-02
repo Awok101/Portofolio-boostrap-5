@@ -1,0 +1,49 @@
+    *,html {
+      padding: 0;
+      margin: 0;
+      font-family: monaco, Monospace;
+    }
+      body {
+/*         background-image: url('/assets/img/download.png'); */
+  
+    }
+    
+    #navA{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      font-size: 25px;
+      text-decoration: capitalize;
+      color: white;
+    }
+      
+    #aingNav{
+      width: 50px;
+      height: 50px;
+      border-radius: 50px;
+      padding-right: 10px;
+      
+    }
+    #aingNav:hover {
+      width: 65px;
+      height: 65px;
+      border-radius: 65px;
+      transition: all .4s ease-in-out;
+      background-color: ;
+    }
+    
+    .jumbotron {
+      padding-top: 6rem;
+      background-color: #e2edff;
+    }
+    
+    #Project{
+      background-color: #e2edff;
+    }
+    section {
+      padding-top: 5rem;
+    }
+
+
+
+  
